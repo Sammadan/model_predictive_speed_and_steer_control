@@ -4,6 +4,4 @@ each instant of time in order for the robot to follow a certain path. A path con
 points representing the positional coordinates of a particular route.And also giving out the shortest distence which can be used for multiple purpose
 mdlcxmm l;mx clsx c'lsl,z,c;'c ,SdcopSC:Mc:m;cM:Llmdmk  
 
-dfmvfmdkcMmx
-nckcnsjdc
-efjcn shjeclq
+

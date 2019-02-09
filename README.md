@@ -2,6 +2,5 @@
 Path tracking is the process concerned with how to determine speed and steering settings at
 each instant of time in order for the robot to follow a certain path. A path consists of a set of
 points representing the positional coordinates of a particular route.And also giving out the shortest distence which can be used for multiple purpose
-mdlcxmm l;mx clsx c'lsl,z,c;'c ,SdcopSC:Mc:m;cM:Llmdmk  
 
 
